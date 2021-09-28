@@ -69,7 +69,7 @@ Tools | Description
 ---- | ----
 [**Buffer**](https://www.buffer.com) | Buffer is the most intuitive, affordable, and authentic way to reach more people on social media.
 [**AdMob by Google**](https://admob.google.com) | AdMob is able to provide advertiser demand in more than 200 countries for us.
-[**Boostfy**](https://boostfy.com) | Boost Startup & Small Business. 
+**Boostfy** | Boost Startup & Small Business. 
 [**SEMRush**](https://www.semrush.com) | Keyword checker + Keyword related tools.
 
 # Video Marketing
