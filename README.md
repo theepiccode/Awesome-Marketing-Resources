@@ -78,12 +78,12 @@ Tools | Description
 [**Filmora**](https://filmora.wondershare.com) | One of the best video editing software with cool features that compares to other competing video editing Softwares. 
 [**Vimeo**](https://vimeo.com) | With Vimeo, you can watch videos in gorgeous ad-free HD. 
 [**Biteable**](https://biteable.com) | Make standout videos in a snap with the Biteable video maker. 
-[**Hippo Video**](https://hippovideo.com) |  The best video platform for Sales. Ease of use and distribution to social media.
+[**Hippo Video**](http://hippovideo.com) |  The best video platform for Sales. Ease of use and distribution to social media.
 
 # Miscellaneous 
 Tools | Description
 ---- | ----
-[**Canva**](https://canva.com) | Minimal usage, but good for cards, DPRs, invoices, editing PDFs.
+[**Canva**](http://canva.com) | Minimal usage, but good for cards, DPRs, invoices, editing PDFs.
 [**Grammarly**](https://grammarly.com) |  Must for making profiles, writing content etc. Not just a spellchecker.
 [**Google Analytics**](https://analytics.google.com) | Tracking traffic on your site, CPC, sources of traffic etc. Complete information hub, absolutely mandatory for tracking data.
 [**HARO**](https://www.helpareporter.com/)  | Find articles and reporters who need sources. Great for earning backlinks by providing info. 
