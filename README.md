@@ -10,7 +10,6 @@
 # SEO 🔍
 Tools | Description
 ---- | ----
-[**Proseotools**](https://proseotools.us/) | MUST for SEO. Gives access to multiple other SEO sites and tools. A hub for SEO tools basically.
 [**Ahref**](https://ahrefs.com/) | Great for checking your site. Also for BACKLINKS. Some paid features, some free features. 
 [**Semrush**](https://www.semrush.com) | Keyword checker + Keyword related tools.
 [**Buzzsumo**](https://buzzsumo.com) | Find the content that performs best, Collaborate with the influencers who matter.
