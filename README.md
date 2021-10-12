@@ -79,6 +79,11 @@ Tools | Description
 [**Biteable**](https://biteable.com) | Make standout videos in a snap with the Biteable video maker. 
 [**Hippo Video**](http://hippovideo.com) |  The best video platform for Sales. Ease of use and distribution to social media.
 
+# Collaboration 
+Tools | Description
+---- | ----
+[**Slack**](https://slack.com/intl/en-in/) | A popular messaging app for business and collaboration that connects people to the information they need
+
 # Miscellaneous 
 Tools | Description
 ---- | ----
@@ -86,9 +91,6 @@ Tools | Description
 [**Grammarly**](https://grammarly.com) |  Must for making profiles, writing content etc. Not just a spellchecker.
 [**Google Analytics**](https://analytics.google.com) | Tracking traffic on your site, CPC, sources of traffic etc. Complete information hub, absolutely mandatory for tracking data.
 [**HARO**](https://www.helpareporter.com/)  | Find articles and reporters who need sources. Great for earning backlinks by providing info. 
-
-
-
 
 TheEpicCode team will keep adding more resources for Marketing from all domains.
 If you want to get involved with the community and publish your articles on our [website](https://theepiccode.com/), join our [Discord Server](https://invite.theepiccode.com). 
