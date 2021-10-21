@@ -83,6 +83,9 @@ Tools | Description
 Tools | Description
 ---- | ----
 [**Slack**](https://slack.com/intl/en-in/) | A popular messaging app for business and collaboration that connects people to the information they need
+[**Bitrix24**](https://www.bitrix24.com/) | Bitrix24 is a united work space which handles the many aspects of daily operations and tasks. It is a collaboration software with complete tools for management, collaboration, and communication
+[**Trello**](https://trello.com/) | Trello is a web-based, Kanban-style, list-making application. In one glance, Trello tells you what's being worked on, who's working on what, and where something is in a process.
+
 
 # Miscellaneous 
 Tools | Description
