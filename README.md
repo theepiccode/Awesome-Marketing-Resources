@@ -20,6 +20,7 @@ Tools | Description
 Tools | Description
 ---- | ----
 [**Instagram Marketing**](https://www.hubspot.com/instagram-marketing) | The best rated blog for reaching new heights with Instagram.
+[**SocialGrep Alerts**](https://socialgrep.com/alerts) | Reddit mention alerts to email, Slack and Discord - signals out of the social web of noise.
 [**Hootsuite**](https://www.hootsuite.com) | Open platform integrates with tools you already use—like Dropbox, Google Drive, Salesforce, and Adobe. 
 [**Buffer**](https://www.buffer.com) | Buffer is the most intuitive, affordable, and authentic way to reach more people on social media.
 [**Social Mention**](https://www.mention.com) | Brand insights at your fingertips.
